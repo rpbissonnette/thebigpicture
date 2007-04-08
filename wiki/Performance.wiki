@@ -1,4 +1,5 @@
 #summary How to improve the performance of this library
+#labels Featured
 
 = Introduction =
 
